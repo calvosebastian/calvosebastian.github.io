@@ -2,10 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+
 ---
 
+<center> <img src="/pictures/headshot.JPG" width="300" height="400"> </center> <br/>
 
-I am currently a lecturer of Mathematics at Towson University. 
+ I am currently a Lecturer of Mathematics at Towson University. 
 
 My research background is in algebraic geometry. In particular, I focus on polynomial interpolation type problems. 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: research_intro
+permalink: "research_intro"
 ---
 
 
