@@ -10,14 +10,18 @@ My research background is in algebraic geometry. In particular, I focus on polyn
 <!-- Code to link to a PDF in markdown:
 [pdf here](pdfs/Calvo_Icosahedral_2023.pdf){:target="_blank"} --> 
 
-#### Publications & preprints
+#### **Publications & preprints**
 
 <ol reversed>
     <li> Calvo, S., 2024. The icosahedral line configuration and Waldschmidt constants. <i> Journal of Pure and Applied Algebra</i>, 228(6), p.107563. <a href="docs/papers/Calvo_Icosahedral_2023.pdf" target="_blank">pdf</a> <a href="https://arxiv.org/abs/2209.01499" target="_blank">arXiv:2209.01499</a></li>
 </ol>
 
+#### **Research and Expository Talks**
+[Waldschmidt Constant of Complex Reflection Groups](/docs/expository/WaldschmidtConstantOfComplexReflectionGroups.pdf){:target="_blank"} <br />
+[Polynomial Interpolation in Algebraic Geometry](/docs/expository/PolynomialInterpolationInAlgebraicGeometry.pdf){:target="_blank"} <br />
 
-#### Expository writing
+
+#### **Expository writing**
 
 [Projective Monoid Schemes and Extended Fans](/docs/papers/Sebastian_s_Honors_Thesis.pdf){:target="_blank"} TCNJ Honors Thesis. 2019. <br />
 [Turning Angles on Convex Ideal Hyperbolic Polyhedra](/docs/papers/berkeley_paper.pdf){:target="_blank"} UC Berkeley REU Paper. 2018. <br />
