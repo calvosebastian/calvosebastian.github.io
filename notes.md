@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "notes"
+layout: page 
 permalink: "notes"
 ---
 
